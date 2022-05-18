@@ -1,0 +1,9 @@
+* {
+    margin: auto;
+}
+
+
+button.btn.btn-primary {
+        float: right;
+        margin-right: 5%;
+    }
